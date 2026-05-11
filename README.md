@@ -43,6 +43,7 @@ I build mobile and web applications that solve practical problems for students, 
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [Vision Assist](https://github.com/2friendly291015/Vison-Assit) | Real-time object detection and narration system for visual accessibility | React, Vite, FastAPI, TensorFlow.js, AWS |
+| [WhatsApp AI Widget](https://github.com/2friendly291015/whatsapp-ai-widget) | Floating Windows widget for AI-assisted WhatsApp replies with OpenRouter | Electron, React, TypeScript, WhatsApp Web |
 | [Axplore BCA](https://github.com/2friendly291015/axploreBCA-Startup) | Academic resource sharing app for BCA students and teachers | React Native, Expo, Firebase |
 | [E-Commerce Website](https://github.com/2friendly291015/SideProjects) | Responsive storefront with product browsing, cart, auth, and checkout screens | HTML, CSS, JavaScript |
 | [Placement Voting Portal](https://github.com/2friendly291015/placement-voting-portal) | Voting and appreciation letter workflow for placement activities | HTML, PHP, CSV |
