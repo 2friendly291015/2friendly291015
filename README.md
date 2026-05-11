@@ -1,102 +1,68 @@
 <div align="center">
 
-<h1>Amarjit L Singh</h1>
-<h3>Full Stack Developer | Building Scalable, Real-World Applications</h3>
+# Amarjit L Singh
 
-<p>
-  <a href="https://github.com/2friendly291015">
-    <img src="https://komarev.com/ghpvc/?username=2friendly291015&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+### Full Stack Developer | React Native | Firebase | Database Systems
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Native+Developer;Firebase+Specialist;Building+Scalable+Applications" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=2friendly291015&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/2friendly291015)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)](https://amarjit-l-singh-portfolio.netlify.app/)
 
 </div>
 
 ---
 
-## Profile
+## About Me
 
-Full Stack Developer focused on designing and delivering scalable, efficient, and user-centric applications. Strong experience in mobile and web development with emphasis on performance, maintainability, and clean architecture.
+I build mobile and web applications that solve practical problems for students, teams, and institutions. My work focuses on clean interfaces, reliable Firebase-backed features, and project structures that are easy to maintain.
 
-- Currently working with React Native, Firebase, and modern database systems  
-- Strong problem-solving skills with algorithmic thinking  
-- Focused on writing clean, maintainable, and production-ready code  
-- Interested in system design and scalable backend architecture  
-
----
+- Building with React Native, Expo, Firebase, JavaScript, HTML, CSS, PHP, and SQL
+- Interested in scalable backend architecture, database design, and production-ready application workflows
+- Comfortable creating academic platforms, commerce interfaces, voting systems, and accessibility-focused tools
+- Focused on usability, maintainability, and real-world impact
 
 ## Technology Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,sql" />
-</p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,firebase,expo,git,vscode" />
-</p>
 
----
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Projects
+## Featured Projects
 
-### Axplore BCA
-Mobile application designed for BCA students to access and share academic resources.
-
-- Tech Stack: React Native, Firebase, Expo  
-- Focus: Resource sharing, usability, and mobile-first design  
-
----
-
-### E-Commerce Platform
-Responsive web application with modern UI and essential commerce features.
-
-- Tech Stack: HTML, CSS, JavaScript  
-- Features: Product listing, cart management, checkout flow  
-
----
-
-### Placement Voting Portal
-Web-based system enabling peer voting and automated appreciation letter generation.
-
-- Tech Stack: HTML, PHP, CSV  
-- Focus: Data handling, user interaction, and automation  
-
----
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [Vision Assist](https://github.com/2friendly291015/Vison-Assit) | Real-time object detection and narration system for visual accessibility | React, Vite, FastAPI, TensorFlow.js, AWS |
+| [Axplore BCA](https://github.com/2friendly291015/axploreBCA-Startup) | Academic resource sharing app for BCA students and teachers | React Native, Expo, Firebase |
+| [E-Commerce Website](https://github.com/2friendly291015/SideProjects) | Responsive storefront with product browsing, cart, auth, and checkout screens | HTML, CSS, JavaScript |
+| [Placement Voting Portal](https://github.com/2friendly291015/placement-voting-portal) | Voting and appreciation letter workflow for placement activities | HTML, PHP, CSV |
+| [Independence Day Website](https://github.com/2friendly291015/independence-day-website) | Static tribute website for India's Independence Day | HTML, CSS, JavaScript |
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=2friendly291015&show_icons=true&theme=default&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2friendly291015&layout=compact&theme=default&hide_border=true" />
+![Amarjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=2friendly291015&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2friendly291015&layout=compact&theme=default&hide_border=true)
 
 </div>
-
----
 
 ## Contact
 
-<p>
-  <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/2friendly291015">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://axplore-academy.vercel.app">
-    <img src="https://skillicons.dev/icons?i=web" />
-  </a>
-</p>
+- Portfolio: [amarjit-l-singh-portfolio.netlify.app](https://amarjit-l-singh-portfolio.netlify.app/)
+- GitHub: [@2friendly291015](https://github.com/2friendly291015)
+- LinkedIn: [Add your LinkedIn profile URL here](https://linkedin.com)
 
 ---
 
-## Statement
-
-Focused on building high-quality software that solves real problems, with attention to scalability, performance, and user experience.
-
-</div>
+I care about building useful software with clear user flows, reliable data handling, and a polished experience from first screen to final action.
